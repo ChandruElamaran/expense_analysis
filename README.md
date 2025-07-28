@@ -19,3 +19,4 @@ A simple and intuitive application to help users manage their personal finances 
 - Export or download reports as needed
 🧾 License
 This project is licensed under the MIT License.
+![image alt](https://github.com/ChandruElamaran/expense_analysis/blob/master/expense%20tracker.png?raw=true)
